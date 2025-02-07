@@ -1,0 +1,11 @@
+{
+    "username": "adnan",
+    "email": "adnan@gmail.com",
+    "working_hours": {
+        "start_hour": "05",
+        "start_minute": "00",
+        "end_hour": "10",
+        "end_minute": "00"
+    },
+    "days_back": 2
+}
